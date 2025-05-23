@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Muhammad Nadeem
 =======================================================================================================================================
 
-Data Science | Data Analyst
+Generative AI Engineer | AI/ML Engineer | Researcher
 ---------------------------
 
-Passionate Data Scientist and Data Analyst with a robust background in machine learning (ML), deep learning (DL), and natural language processing (NLP). With 6 months of freelancing experience, I have honed my skills through a variety of projects, including real-time Twitter sentiment analysis, computer vision applications, and the integration of cutting-edge deep learning models. My expertise extends to advanced architectures like transformers, Graph Neural Networks (GNNs), and Generative Adversarial Networks (GANs). In addition, I have hands-on experience in developing solutions using Flutter with Firebase and Streamlit, incorporating PyTorch-based models seamlessly. I am committed to leveraging data science and analytical techniques to solve complex problems and create impactful solutions. My portfolio showcases a diverse range of projects, reflecting my deep understanding and passion for the field. Let's connect and explore the transformative power of data!
+Passionate AI/ML ENgineer with a robust background in machine learning (ML), deep learning (DL), and natural language processing (NLP). With 8 months of MetavizPro experience, I have honed my skills through a variety of projects, including real-time Twitter sentiment analysis, computer vision applications, and the integration of cutting-edge deep learning models. My expertise extends to advanced architectures like transformers, Graph Neural Networks (GNNs), and Generative Adversarial Networks (GANs). In addition, I have hands-on experience in developing solutions using Flutter with Firebase and Streamlit, incorporating PyTorch-based models seamlessly. I am committed to leveraging data science and analytical techniques to solve complex problems and create impactful solutions. My portfolio showcases a diverse range of projects, reflecting my deep understanding and passion for the field. Let's connect and explore the transformative power of data!
 
 *   🌍  I'm based in Pakistan
 *   ✉️  You can contact me at [mr.nadeempredictermodeler@gmail.com](mailto:mr.nadeempredictermodeler@gmail.com)
