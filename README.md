@@ -10,7 +10,7 @@ Passionate AI/ML ENgineer with a robust background in machine learning (ML), dee
 *   ✉️  You can contact me at [mr.nadeempredictermodeler@gmail.com](mailto:mr.nadeempredictermodeler@gmail.com)
 *   🧠  I'm learning Deep Learning Algorithms, PowerBI and Tableau tool, Flutter with Firebase.
 *   ⚡  I like to learn new technology related to Deep Learning.
-*   ### Skills 
+    ### Skills 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a>
