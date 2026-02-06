@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Generative AI Engineer | AI/ML Engineer | Researcher
 ---------------------------
 
-Passionate AI/ML Engineer with a robust background in machine learning (ML), deep learning (DL), and natural language processing (NLP). With 1 year of MetavizPro experience, I have honed my skills through a variety of projects, including real-time Twitter sentiment analysis, computer vision applications, and the integration of cutting-edge deep learning models. My expertise extends to advanced architectures like transformers, Graph Neural Networks (GNNs), and Generative Adversarial Networks (GANs). In addition, I have hands-on experience in developing solutions using Flutter with Firebase and Streamlit, incorporating PyTorch-based models seamlessly. I am committed to leveraging data science and analytical techniques to solve complex problems and create impactful solutions. My portfolio showcases a diverse range of projects, reflecting my deep understanding and passion for the field. Let's connect and explore the transformative power of data!
+Passionate AI/ML Engineer with a robust background in machine learning (ML), deep learning (DL), and natural language processing (NLP). With more than 1 year of MetavizPro experience, I have honed my skills through a variety of projects, including real-time Twitter sentiment analysis, computer vision applications, and the integration of cutting-edge deep learning models. My expertise extends to advanced architectures like transformers, Graph Neural Networks (GNNs), and Generative Adversarial Networks (GANs). In addition, I have hands-on experience in developing solutions using Flutter with Firebase and Streamlit, incorporating PyTorch-based models seamlessly. I am committed to leveraging data science and analytical techniques to solve complex problems and create impactful solutions. My portfolio showcases a diverse range of projects, reflecting my deep understanding and passion for the field. Let's connect and explore the transformative power of data!
 
 *   🌍  I'm based in Pakistan
 *   ✉️  You can contact me at [mr.nadeempredictermodeler@gmail.com](mailto:mr.nadeempredictermodeler@gmail.com)
 *   🧠  I'm learning Deep Learning Algorithms, PowerBI and Tableau tool, Flutter with Firebase.
-*   ⚡  I like to learn new technology related to Deep Learning.
+*   ⚡  I like to learn new technology related to Deep Learning. 
     ### Skills 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
