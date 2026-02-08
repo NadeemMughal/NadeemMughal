@@ -8,7 +8,7 @@ Passionate AI/ML Engineer with a robust background in machine learning (ML), dee
 
 *   🌍  I'm based in Pakistan
 *   ✉️  You can contact me at [mr.nadeempredictermodeler@gmail.com](mailto:mr.nadeempredictermodeler@gmail.com)
-*   🧠  I'm learning Deep Learning Algorithms, PowerBI and Tableau tool, Flutter with Firebase.
+*   🧠  I'm learning Deep Learning Algorithms, PowerBI and Tableau tool, Flutter, Voice Agents, Chatbots with Firebase.
 *   ⚡  I like to learn new technology related to Deep Learning. 
     ### Skills 
 <p align="left">
