@@ -63,6 +63,7 @@ Your data is your asset. Every solution I build follows strict privacy and secur
 - 🔐 **End-to-End Encryption** — All data encrypted in transit and at rest
 - 🛡️ **Access Control** — Role-based access, API key rotation, secure credential management
 - 📋 **GDPR & CCPA Aware** — Consent management, data minimization, right-to-erasure support
+- 🏥 **HIPAA Compliant Design** — Built with healthcare data standards in mind — PHI safeguards, access logging, and BAA-ready architecture for voice & chat systems handling sensitive patient data
 - ☁️ **Secure Infrastructure** — SOC 2 compliant platforms (Google Cloud, Supabase, Firebase)
 - 🏢 **Data Isolation** — Multi-tenant architectures with strict client data separation
 - 📝 **Audit Trails** — Comprehensive logging for transparency and accountability
