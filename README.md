@@ -79,16 +79,16 @@ Your data is your asset. Every solution I build follows strict privacy and secur
 `Python` · `PyTorch` · `TensorFlow` · `LangChain` · `LangGraph` · `CrewAI` · `OpenAI API` · `HuggingFace` · `LoRA/QLoRA`
 
 **🎙️ Voice & Conversational AI**
-`Retell AI` · `ElevenLabs` · `Synthflow` · `CloserX` · `CloseBot`
+`Retell AI` · `ElevenLabs` · `Synthflow` · `CloserX` · `CloseBot` . `Custom AI Chatbots and Voice Agents`
 
 **☁️ Cloud & Databases**
-`Google Cloud` · `Firebase` · `Supabase` · `MySQL` · `Vector DBs` · `Graph DBs`
+`AWS` · `Digital Ocean` · `Pinecone` · `MySQL` · `Vector DBs` · `Graph DBs` · `Google Cloud` · `Firebase` · `Vercel` · `Railway` · `Supabase` · `Chroma DB` · `Mongo DB`
 
 **⚙️ Automation & Integration**
-`n8n` · `Make.com` · `Zapier` · `HubSpot` · `GoHighLevel` · `Square` · `Google Calendar`
+`n8n` · `Make.com` · `Zapier` · `HubSpot` · `GoHighLevel` · `Square` · `Google Calendar` · `Service Titan` . `API's` . `Webhooks` . `WebSockets` .`WebRTC`
 
 **💻 Development**
-`Flutter` · `Dart` · `Streamlit` · `HTML/CSS` · `Bootstrap` · `R` · `PySpark` · `Hadoop`
+`Flutter` · `Dart` · `Streamlit` · `HTML/CSS` · `Bootstrap` · `R` · `PySpark` · `Hadoop` . `Python`
 
 **📊 Analytics & Visualization**
 `Power BI` · `Tableau` · `Weights & Biases` · `Kaggle` · `Microsoft Excel`
