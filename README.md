@@ -19,7 +19,7 @@
 **I build AI Voice Agents and Chatbots that answer every call, qualify every lead,
 book appointments, and push everything into your CRM — 24/7, no human needed.**
 
-[📅 Book a Free Strategy Call](https://calendly.com/muhammadnadeem51200/30min) &nbsp;·&nbsp; [🌐 See Live Projects](https://nadeem.cloud) &nbsp;·&nbsp; [🎧 Hear a Live AI Agent Call](https://kommodo.ai/recordings/pbDpPZAl2UEfSfhLSp3A)
+[📅 Book a Free Strategy Call](https://calendly.com/muhammadnadeem51200/free-ai-strategy-call) &nbsp;·&nbsp; [🌐 See Live Projects](https://nadeem.cloud) &nbsp;·&nbsp; [🎧 Hear a Live AI Agent Call](https://kommodo.ai/recordings/pbDpPZAl2UEfSfhLSp3A)
 
 </div>
 
@@ -180,7 +180,7 @@ I work with service businesses and agencies across **UK · US · Canada.**
 
 | Contact | Details |
 |---|---|
-| 📅 Book a Free Strategy Call | [calendly.com/muhammadnadeem51200/30min](https://calendly.com/muhammadnadeem51200/30min) |
+| 📅 Book a Free Strategy Call | [calendly.com/muhammadnadeem51200/free-ai-strategy-call](https://calendly.com/muhammadnadeem51200/free-ai-strategy-call) |
 | 🎧 Hear a Live AI Voice Agent | [Real Call Recording](https://kommodo.ai/recordings/pbDpPZAl2UEfSfhLSp3A) |
 | 🌐 Portfolio & Live Demos | [nadeem.cloud](https://nadeem.cloud) |
 | 📧 Email | [sales.nadeem10@gmail.com](mailto:sales.nadeem10@gmail.com) |
