@@ -40,6 +40,56 @@ book appointments, and push everything into your CRM — 24/7, no human needed.*
 
 ---
 
+---
+
+## 🏭 Industries I Build For
+
+> Production AI Voice Agents & Chatbots deployed across **24+ service industries** in the **UK · US · Canada**.
+
+![Solar](https://img.shields.io/badge/Solar-0891b2?style=for-the-badge)
+![Heating & Gas](https://img.shields.io/badge/Heating_and_Gas-0891b2?style=for-the-badge)
+![Boilers](https://img.shields.io/badge/Boilers-0891b2?style=for-the-badge)
+![HVAC](https://img.shields.io/badge/HVAC-0891b2?style=for-the-badge)
+![Plumbing](https://img.shields.io/badge/Plumbing-0891b2?style=for-the-badge)
+![Electrical](https://img.shields.io/badge/Electrical-0891b2?style=for-the-badge)
+![Roofing](https://img.shields.io/badge/Roofing-0891b2?style=for-the-badge)
+![Heat Pumps](https://img.shields.io/badge/Heat_Pumps_ASHP-0891b2?style=for-the-badge)
+![EV Chargers](https://img.shields.io/badge/EV_Chargers-0891b2?style=for-the-badge)
+![Insulation](https://img.shields.io/badge/Insulation-0891b2?style=for-the-badge)
+![Damp Proofing](https://img.shields.io/badge/Damp_Proofing-0891b2?style=for-the-badge)
+![Painting](https://img.shields.io/badge/Painting_and_Decorating-0891b2?style=for-the-badge)
+![Bathrooms](https://img.shields.io/badge/Bathrooms-0891b2?style=for-the-badge)
+![Driveways](https://img.shields.io/badge/Driveways_and_Paving-0891b2?style=for-the-badge)
+![Construction](https://img.shields.io/badge/Construction-0891b2?style=for-the-badge)
+![Home Services](https://img.shields.io/badge/Home_Services-0891b2?style=for-the-badge)
+![Med Spas](https://img.shields.io/badge/Med_Spas-0891b2?style=for-the-badge)
+![Gyms](https://img.shields.io/badge/Gyms-0891b2?style=for-the-badge)
+![Restaurants](https://img.shields.io/badge/Restaurants-0891b2?style=for-the-badge)
+![Dental](https://img.shields.io/badge/Dental-0891b2?style=for-the-badge)
+![Real Estate](https://img.shields.io/badge/Real_Estate-0891b2?style=for-the-badge)
+![Stairlifts](https://img.shields.io/badge/Stairlifts-0891b2?style=for-the-badge)
+![Veterinary](https://img.shields.io/badge/Veterinary-0891b2?style=for-the-badge)
+![Marketing Agencies](https://img.shields.io/badge/Marketing_Agencies-0891b2?style=for-the-badge)
+
+**By deployment volume:**
+
+| Industry | Live AI Bots | Region |
+|---|---|---|
+| Solar & Renewables | 32 | UK |
+| Heating & Gas | 26 | UK |
+| Boilers | 21 | UK |
+| Air Conditioning / HVAC | 17 | UK |
+| Plumbing | 15 | UK |
+| General Home Services | 14 | UK |
+| Painting & Decorating | 7 | UK |
+| Marketing Agencies | 7 | UK · US |
+| Electrical · Heat Pumps · Real Estate · Stairlifts | 4 each | UK · US |
+| Roofing · EV Chargers · Insulation · Damp Proofing | 2–3 each | UK |
+| Med Spa · Pools · Dental · Bathrooms · Driveways | 1 each | UK · US · CA |
+
+---
+
+
 ## 🚀 What I Deliver
 
 I design, develop, and deploy **production-grade AI systems** that transform how businesses interact with their customers. From autonomous voice agents handling thousands of calls to chatbots converting leads around the clock — I build solutions that deliver measurable ROI.
