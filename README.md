@@ -6,8 +6,6 @@
 
 📍 Lahore, Pakistan &nbsp;|&nbsp; 📧 [sales.nadeem10@gmail.com](mailto:sales.nadeem10@gmail.com) &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-nadeem-ai-ml-engineer/) &nbsp;|&nbsp; 🌐 [nadeem.cloud](https://nadeem.cloud)
 
-<img src="https://komarev.com/ghpvc/?username=NadeemMughal&label=Profile%20Views&color=0891b2&style=flat" alt="Profile Views" />
-
 </div>
 
 ---
@@ -19,7 +17,7 @@
 **I build AI Voice Agents and Chatbots that answer every call, qualify every lead,
 book appointments, and push everything into your CRM — 24/7, no human needed.**
 
-[📅 Book a Free Strategy Call](https://calendly.com/muhammadnadeem51200/free-ai-strategy-call) &nbsp;·&nbsp; [🌐 See Live Projects](https://nadeem.cloud) &nbsp;·&nbsp; [🎧 Hear a Live AI Agent Call](https://kommodo.ai/recordings/pbDpPZAl2UEfSfhLSp3A)
+[📅 Book a Free Strategy Call](https://calendly.com/muhammadnadeem51200/free-ai-strategy-call) &nbsp;·&nbsp; [🌐 See Live Projects](https://nadeem.cloud)
 
 </div>
 
@@ -30,7 +28,8 @@ book appointments, and push everything into your CRM — 24/7, no human needed.*
 | Metric | Number |
 |---|---|
 | 🎙️ AI Voice Agents Live | **15+** |
-| 💬 AI Chatbots in Production | **50+** |
+| 💬 AI Chatbots in Production | **190+** |
+| 🏭 Service Industries Covered | **24** |
 | ⚙️ n8n Workflows Running | **64** |
 | 🏢 Business Clients | **10+** |
 | 📞 AI-Handled Calls/Month | **10,000+** |
@@ -51,27 +50,28 @@ I design, develop, and deploy **production-grade AI systems** that transform how
 
 > **15+ Voice Agents live in production — and growing.**
 
-**Real client deployments:**
+**Real deployments (client names withheld for confidentiality):**
 
-| Client | Industry | What the Agent Does |
+| Deployment | Industry & Region | What the Agent Does |
 |---|---|---|
-| ABC Rendering | Construction (UK) | Handles quote calls & bookings 24/7 |
-| We Build Trades | Home Services (UK) | Inbound calls with live caller lookup |
-| Lumina Med Spa | Medical Spa (Canada) | Full appointment scheduling, no receptionist needed |
-| 10+ Trade Businesses | HVAC, Solar, Electrical (UK & US) | Lead qualification & CRM booking |
+| Construction firm | Construction (UK) | Handles quote calls & bookings 24/7 |
+| Home-services company | Home Services (UK) | Inbound calls with live caller lookup |
+| Med spa | Medical Spa (Canada) | Full appointment scheduling, no receptionist needed |
+| 10+ trade businesses | HVAC, Solar, Electrical (UK & US) | Lead qualification & CRM booking |
 
 - **Autonomous Call Handling** — AI agents that book appointments, answer FAQs, qualify leads, handle rescheduling & cancellations in real-time
 - **Human-Like Conversations** — Powered by Retell AI, ElevenLabs, Vapi, LiveKit, Synthflow with advanced STT/TTS pipelines
 - **SaaS Voice Platform** — Full-stack voice automation with Retell AI, n8n, Supabase DB, and CRM backends — scalable across industries
 - **Sub-500ms Response** — LiveKit WebRTC architecture for real-time, natural conversations
 
-🎧 **[Hear a real AI agent call →](https://kommodo.ai/recordings/pbDpPZAl2UEfSfhLSp3A)**
+**🏭 Industries served by voice agents:**
+HVAC · Plumbing · Electrical · Roofing · Solar & Renewables · Heating & Gas · Boilers · Heat Pumps (ASHP) · EV Chargers · Insulation · Damp Proofing · Painting & Decorating · Bathrooms · Driveways & Paving · Construction · Med Spas · Gyms · Restaurants · Dental · Real Estate & Property · Stairlifts · Veterinary Clinics
 
 ---
 
 ### 💬 Chatbot & Conversational AI
 
-> **50+ UK-based chatbots managed & optimized — and continuously expanding.**
+> **190+ chatbots built & managed across 24 service industries — and continuously expanding.**
 
 - **LLM-Powered Chatbots** — Context-aware bots built with LangChain, LangGraph, and CrewAI using RAG & Graph RAG for deep knowledge retrieval
 - **Multi-Agent Systems** — Orchestrated AI agents that collaborate on complex workflows — lead nurturing, support, onboarding
@@ -107,12 +107,12 @@ I design, develop, and deploy **production-grade AI systems** that transform how
 
 | Project | What It Does | Stack | Impact |
 |---|---|---|---|
-| 🗣️ [**ElevenLabs Voice Agents**](https://github.com/NadeemMughal/elevenlabs-voice-agents) | 3 live client deployments — construction, home services, med spa | ElevenLabs · n8n · GoHighLevel | Zero missed calls after hours |
-| ⚡ [**LiveKit Voice Agent**](https://github.com/NadeemMughal/livekit-voice-agent) | Sub-500ms browser AI phone agent | LiveKit · WebRTC · OpenAI · Deepgram | Fastest response time architecture |
-| 🤖 [**UK Chatbot Network**](https://github.com/NadeemMughal/Chatbot-Agency-Clients-Lead-Qualification) | 50+ production chatbots for UK trade businesses | GoHighLevel · LangChain · Closebot | Reduced support tickets |
-| 🔄 [**n8n Automation Workflows**](https://github.com/NadeemMughal/n8n-automation-workflows) | 64 live workflows across 10+ businesses | n8n · GoHighLevel · Supabase | Client onboarding 3 days → 2 hours |
-| 🧠 [**Hybrid RAG System**](https://github.com/NadeemMughal/rag-ai-systems) | Pinecone + BM25 dual retrieval for higher precision | LangChain · Pinecone · BM25 · FastAPI | Higher accuracy than vector-only |
-| 🔌 [**ServiceTitan API**](https://github.com/NadeemMughal/servicetitan-api) | Full Python integration for HVAC voice agents | Python · OAuth2 · ServiceTitan | Real-time booking in seconds |
+| 🗣️ **ElevenLabs Voice Agents** | 3 live client deployments — construction, home services, med spa | ElevenLabs · n8n · GoHighLevel | Zero missed calls after hours |
+| ⚡ **LiveKit Voice Agent** | Sub-500ms browser AI phone agent | LiveKit · WebRTC · OpenAI · Deepgram | Fastest response time architecture |
+| 🤖 **Multi-Industry Chatbot Network** | 190+ production chatbots across 24 service industries | GoHighLevel · LangChain · Closebot | Reduced support tickets |
+| 🔄 **n8n Automation Workflows** | 64 live workflows across 10+ businesses | n8n · GoHighLevel · Supabase | Client onboarding 3 days → 2 hours |
+| 🧠 **Hybrid RAG System** | Pinecone + BM25 dual retrieval for higher precision | LangChain · Pinecone · BM25 · FastAPI | Higher accuracy than vector-only |
+| 🔌 **ServiceTitan API** | Full Python integration for HVAC voice agents | Python · OAuth2 · ServiceTitan | Real-time booking in seconds |
 
 ---
 
@@ -141,22 +141,6 @@ I design, develop, and deploy **production-grade AI systems** that transform how
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NadeemMughal&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" width="49%" />
-
-<br/>
-
-### 📊 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NadeemMughal&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area=true&area_color=0891b2&hide_border=true" alt="Contribution Graph" width="100%" />
-
-</div>
-
----
-
 ## 🎓 Education & Certifications
 
 **🎓 Bachelor of Science in Data Science** — GIFT University *(2020 – 2024)*
@@ -181,7 +165,6 @@ I work with service businesses and agencies across **UK · US · Canada.**
 | Contact | Details |
 |---|---|
 | 📅 Book a Free Strategy Call | [calendly.com/muhammadnadeem51200/free-ai-strategy-call](https://calendly.com/muhammadnadeem51200/free-ai-strategy-call) |
-| 🎧 Hear a Live AI Voice Agent | [Real Call Recording](https://kommodo.ai/recordings/pbDpPZAl2UEfSfhLSp3A) |
 | 🌐 Portfolio & Live Demos | [nadeem.cloud](https://nadeem.cloud) |
 | 📧 Email | [sales.nadeem10@gmail.com](mailto:sales.nadeem10@gmail.com) |
 | 🔗 LinkedIn | [muhammad-nadeem-ai-ml-engineer](https://www.linkedin.com/in/muhammad-nadeem-ai-ml-engineer/) |
