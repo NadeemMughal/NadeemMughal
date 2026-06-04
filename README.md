@@ -40,8 +40,6 @@ book appointments, and push everything into your CRM — 24/7, no human needed.*
 
 ---
 
----
-
 ## 🏭 Industries I Build For
 
 > Production AI Voice Agents & Chatbots deployed across **24+ service industries** in the **UK · US · Canada**.
